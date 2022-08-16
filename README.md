@@ -8,3 +8,27 @@ The notes contain the modules outlined below:<br>
 |3|**Regression Model**|<li>3.1 Vector Distance</li><li>3.2 Mean Absolute Error (MAE)</li><li>3.3 Mean Square Error (MSE)</li><li>3.4 Root Mean Square Error (RMSE)</li><li>3.5 Explain Variation</li><li>3.6 Determination Coefficient</li>|
 |4|**Clustering Model**|<li>4.1 Rand Index</li><li>4.2 Mutual Information</li><li>4.3 Profile Coefficient</li>|
 
+## Overview
+### 1.1 What's mdoel evaluation
+
+## Classification Model
+### 2.1 Confusion matrix
+|predicted|actual|values|
+|---|---|---|
+|⬇️|➕|➖|
+|➕|TP (1−β)|FP (α)<br>type I error|
+|➖|FN (β)<br>type II error|TN (1−α)|
+<li> a type I error corresponds to convicting an innocent defendant; misdiagnosis </li>
+<li> a type II error corresponds to acquitting a criminal; missed diagnosis</li>
+
+### Table of error types
+In inferential statistics, the null hypothesis (often denoted H0)is that two (possibilities) are the same <br>
+|error types| H0 ✅| H0 ❌|
+|---|---|---|
+|🙇🏻‍♀️|TN(1−α)|FN (β)<br>type II error|
+|🙅‍♀️|FP (α)<br>type I error|TP (1−β)|
+
+
+
+
+
