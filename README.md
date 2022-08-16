@@ -18,15 +18,18 @@ The notes contain the modules outlined below:<br>
 |⬇️|➕|➖|
 |➕|TP (1−β)|FP (α)<br>type I error|
 |➖|FN (β)<br>type II error|TN (1−α)|
-<li> a type I error corresponds to convicting an innocent defendant; misdiagnosis </li>
-<li> a type II error corresponds to acquitting a criminal; missed diagnosis</li>
+<li>A type I error corresponds to convicting an innocent defendant; misdiagnosis </li>
+<li>A type II error corresponds to acquitting a criminal; missed diagnosis</li><br>
 
 ### Table of error types
-In inferential statistics, the null hypothesis (often denoted H0)is that two (possibilities) are the same <br>
+In inferential statistics, the null hypothesis (often denoted H0)is that two (possibilities) are the same. <br>☝🏿 Hypothesis: "The patient has pneumonia."<br>👌🏿 Null hypothesis (H0): "The patient is healthy."
 |error types| H0 ✅| H0 ❌|
 |---|---|---|
 |🙇🏻‍♀️|TN(1−α)|FN (β)<br>type II error|
 |🙅‍♀️|FP (α)<br>type I error|TP (1−β)|
+<li>😁 The people is healthy (H0 is ✅) but the physician judges the patient was ill.<br><li> 🙅‍♀️ A type I error is the mistaken rejection of a null hypothesis as the result of a test procedure.</li><br>
+<li>🤧 The patient has symptoms of fever, cough, expectoration and chest pain. (H0 is ❌) but the physician judges the patient was ok.<br><li>🙇🏻‍♀️ A type II error is the mistaken failure to reject the null hypothesis as the result of a test procedure.</li><br>
+### 2.2Accuracy, Recall, Precision
 
 
 
