@@ -26,7 +26,8 @@ In inferential statistics, the null hypothesis (often denoted  $H_0$)is that two
 |error types| $H_0$ ✅| $H_0$❌|
 |---|---|---|
 |🙇🏻‍♀️|TN(1−α)|FN (β)<br>type II error|
-|🙅‍♀️|FP (α)<br>type I error|TP (1−β)|
+|🙅‍♀️|FP (α)<br>type I error|TP (1−β)|<br></br>
+
 $H_0$ ✅ 
 <li>😁 The people is healthy, but the physician judges the patient was ill. <br><li> 🙅‍♀️ A type I error is the mistaken rejection of a null hypothesis as the result of a test procedure.</li><br>
 
