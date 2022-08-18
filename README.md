@@ -37,7 +37,9 @@ $H_0$ ❌
 ### 2.2 Accuracy, Recall, Precision
 |term|formula| definition|
 |---|---|---|
-|accuracy|
+|accuracy|||
+|recall|||
+|precision|||
 
 
 
